@@ -41,6 +41,6 @@ download weights from
 		original_backend =  None
 	```
 # Run inference
-`python custom.py splash --image IMG_1200.jpeg --weights mask_rcnn_custom_0150.h5`
+`python inference.py splash --image IMG_1200.jpeg --weights mask_rcnn_custom_0150.h5`
 
 ![image](Figure_1.png)
