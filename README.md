@@ -13,6 +13,7 @@ Training and Inference script for MaskRCNN multi-class model.
 `source env/bin/activate`
 
 `pip install -r requirements.txt`
+
 download weights from 
 `https://drive.google.com/file/d/1hP7ZHbXYpB3lzSb3m9Dh2Tc_3wBAz-7s/view?usp=sharing`
 # Additional installation
